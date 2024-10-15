@@ -24,7 +24,7 @@ on operational metrics.
  Excel: the datasets were provided in the form of csv file and I imported 
 the data into MySQL workbench. 
 
-ey Insights and Observations:
+key Insights and Observations:
 Jobs Reviewed Over Time:
 
 The query highlighted job throughput trends, showing the number of jobs reviewed per hour over a specific period. Peaks in activity may indicate operational efficiency, while dips may point to periods of reduced productivity or system downtime.
