@@ -33,6 +33,8 @@ the data into MySQL workbench.
 
 Key Insights and Observations:
 
+case study 1: job data
+
 Jobs Reviewed Over Time:
 
 The query highlighted job throughput trends, showing the number of jobs reviewed per hour over a specific period. Peaks in activity may indicate operational efficiency, while dips may point to periods of reduced productivity or system downtime.
@@ -61,6 +63,7 @@ Detecting duplicate entries revealed data quality issues. Duplicate rows can inf
 
 ![Screenshot (107)](https://github.com/user-attachments/assets/20215519-44a8-468d-8c27-f4f2b34e21a0)
 
+case study 2:Investigating Metric Spike
 
 Weekly User Engagement:
 
