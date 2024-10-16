@@ -45,13 +45,6 @@ from job_data
 group by ds;
 
 #language share analysis
-select extract(month from ds) as month_num, language, 
-(count(*)/(select count(*) from job_data)*100) as percentage_share from job_data 
-group by ds, language;
-
-select language, (count( *)/(select count( *) from job_data)*100) as percentage_share from job_data 
- group by language;
- 
 select language, (COUNT(*) * 100.0 /(SELECT COUNT(*) FROM job_data)) AS percentage_share
 from job_data 
 group by language
